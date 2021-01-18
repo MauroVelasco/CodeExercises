@@ -1,0 +1,2 @@
+# CodeExercises
+Some code exercises
